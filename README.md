@@ -1,8 +1,6 @@
-# Material Benchmarks
+# Material Benchmarks for Data Scientists
 
-A catalog of **multimodal materials datasets** used to test prediction and uncertainty-quantification methods. Each entry is a data-scientist brief of a dump that is already on disk: files first, papers second.
-
-Briefs are written with the [dataset-brief](docs/dataset-brief-workflow.md) workflow (`inspect_dataset.py` → claims vs observation → one real record, including any image that belongs to it).
+A catalog of **multimodal materials datasets** used to test prediction and uncertainty-quantification methods.
 
 ## Material data benchmarks
 
