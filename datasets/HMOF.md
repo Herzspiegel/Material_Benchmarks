@@ -20,7 +20,7 @@ Each record has
 
 ### 2. Task input and output
 
-- **Task:** multimodal 3-class classification — predict the CO₂-adsorption tertile of one hypothetical MOF from geometric descriptors + metal node + structural prose.
+- **Task:** multimodal 3-class classification — predict the `CO₂-adsorption tertile` of one hypothetical MOF from `geometric descriptors + metal node + structural prose`.
 - **Input**
   - **Table:** 5 floats + 1 categorical. Observed dtypes and ranges on all 113668 rows:
 
