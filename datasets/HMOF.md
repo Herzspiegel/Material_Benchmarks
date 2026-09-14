@@ -2,13 +2,19 @@
 
 ### 1. What the data is about
 
-One record is one hypothetical metal–organic framework, keyed by string `hmof_id`.
+One record is one hypothetical metal–organic framework.
 
-Each record has a chemical `formula`, five geometric pore descriptors, a `metal_node` label, a Robocrystallographer structural `description`, GCMC CO₂ adsorption min/max, and a tertile class `adsp_bin`.
+Each record has
+
+- a chemical `formula`
+- five geometric pore descriptors
+- a `metal_node` label
+- a Robocrystallographer structural `description`
+- GCMC CO₂ adsorption min/max, and a tertile class `adsp_bin`.
 
 113668 hypothetical MOFs
 
-**Missingness:** 0 empty cells in all 12 CSV columns. 0 null or blank `description` strings. `hmof_id` is unique on every row.
+**Missingness:** 0 empty cells in all 12 CSV columns. 0 null or blank `description` strings. `id` is unique on every row.
 
 ---
 
