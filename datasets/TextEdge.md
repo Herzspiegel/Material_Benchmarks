@@ -2,7 +2,7 @@
 
 ### 1. What the data is about
 
-One record is one crystalline solid, keyed by Materials Project `material_id`.
+One record is one crystalline solid.
 
 Each record has
 
