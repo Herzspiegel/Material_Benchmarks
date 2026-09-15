@@ -1,12 +1,16 @@
 # Material Benchmarks for Data Scientists
 
-A catalog of **multimodal materials datasets** used to test prediction and uncertainty-quantification methods.
+A catalog of **materials datasets** used to test prediction and uncertainty-quantification methods.
 
 ## Material data benchmarks
 
 ### Single-modal
 
 **Text**
+
+| ID | n | Dataset | Modalities | Task | Dump | Brief | Original Link |
+|---|---|---|---|---|---|---|---|
+| `textedge-llm-prop-v1` | 146,574 crystals | TextEdge (LLM-Prop) | Robocrystallographer text | band-gap / volume / is-gap-direct | `TextEdge_v.1` | [link](datasets/TextEdge.md) | [link](https://www.nature.com/articles/s41524-025-01536-2) |
 
 **Image**
 
