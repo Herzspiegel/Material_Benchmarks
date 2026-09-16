@@ -16,6 +16,10 @@ A catalog of **materials datasets** used to test prediction and uncertainty-quan
 
 **Sequential**
 
+| ID | n | Dataset | Modalities | Task | Dump | Brief | Original Link |
+|---|---|---|---|---|---|---|---|
+| `phosphorus-concentration-tser` | 2,248 samples | Phosphorus Concentration (TSER) | univariate vis-NIR series | scalar P-concentration regression | `TSER_Soil` | [link](datasets/Phosphorus_Concentration.md) | [link](https://zenodo.org/records/11236716) |
+
 **Computational**
 
 ### Multi-modal
